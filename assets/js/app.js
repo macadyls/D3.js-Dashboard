@@ -224,7 +224,7 @@ function makeSVG() {
         .attr("y", 40)
         .attr("value", "age") // value to grab for event listener
         .classed("inactive", true)
-        .text("Age (Median");
+        .text("Age (Median)");
       var incomeLabel = labelsGroup.append("text")
         .attr("x", 0)
         .attr("y", 60)
