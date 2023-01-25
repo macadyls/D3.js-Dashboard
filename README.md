@@ -2,7 +2,7 @@
 
 The project analyses current trends of health risks in the US. The findings can be viewed through an animated scatterplot diagram where the axes can be changed according to the variable in question.
 
-The dataset used is based on [2014 ACS 1-year estimates](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml)
+The dataset used is based on [2014 ACS 1-year estimates](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml).
 
 ## The Dashboard
 
